@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PolyCampus</string>
+    <string name="login_title">Welcome back</string>
+    <string name="login_subtitle">Sign in to access your campus.</string>
+    <string name="login_id_label">Enrollment number or staff ID</string>
+    <string name="password_label">Password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="login_support">Need help signing in? Contact the college administrator.</string>
+</resources>
